@@ -11,6 +11,8 @@ The abstract class ```Backtracker``` models trial and backtracking over a graph 
 What can it solve?
 =====
 
+Take a look at the tests for full examples.
+
 Sudoku
 ---
 
